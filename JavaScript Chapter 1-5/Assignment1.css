@@ -1,0 +1,11 @@
+/* CHAPTER 1: Question # 6 */
+button{
+    color: black;
+    height: 50px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: bolder;
+    border-radius: 2px;
+    background-color: ghostwhite;
+
+}
